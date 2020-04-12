@@ -1,0 +1,7 @@
+void main()
+{
+//print used for the output on the screen.
+  print("My name is Dart");
+  
+  print("My Fisrt Dart Application!!");
+}
